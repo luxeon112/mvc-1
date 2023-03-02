@@ -1,0 +1,10 @@
+extends ../layout.pug
+block content
+    h1 Picture gallery
+    .course-grid
+        each course in courses
+            .course-card
+                img(src=course.image)
+                
+                
+
