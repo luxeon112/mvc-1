@@ -1,6 +1,6 @@
-### Courses
+### Picture gallery
 
-An online courses platform for learning and teaching. You can currently only see the list of sample courses.
+You can view and upload and share pictures
 
 ### Installation
 
@@ -9,8 +9,4 @@ An online courses platform for learning and teaching. You can currently only see
 3. Run `npm start` to start the server
 4. Open `http://localhost:3000` in your browser to see the app
 
-### Acknowledgements
-
-1. [Express](http://expressjs.com/)
-2. [SQLite](https://www.sqlite.org/)
 
